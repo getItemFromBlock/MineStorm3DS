@@ -1,3 +1,4 @@
-.vscode/*
-.build/*
+.vscode/**
+build/**
+romfs/gfx/**
 minestorm3ds.*
