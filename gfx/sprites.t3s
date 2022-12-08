@@ -1,0 +1,18 @@
+--atlas -f rgba8888 -z auto
+title.png
+player.png
+bullet.png
+spawner.png
+mother_ship.png
+enemyA0.png
+enemyA1.png
+enemyA2.png
+enemyB0.png
+enemyB1.png
+enemyB2.png
+enemyC0.png
+enemyC1.png
+enemyC2.png
+enemyD0.png
+enemyD1.png
+enemyD2.png
